@@ -1,0 +1,15 @@
+/* body */
+body {
+	background: #dedede;
+	font-family: Meiryo;
+}
+
+p{
+	font-size:12pt;
+}
+
+ul{
+	margin-top: 10px;
+	list-style-type: decimal;
+	line-height: 22pt;
+}
