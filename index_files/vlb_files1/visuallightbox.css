@@ -24,7 +24,8 @@
 #vlb1lightbox a, #vlb1lightbox a:hover {
 	border-bottom:none;
 	color:#151410;
-	text-decoration:underline;
+	/*text-decoration:underline;*/
+	text-decoration: none;
 }
 
 #vlb1lightbox a img{ border:none; }

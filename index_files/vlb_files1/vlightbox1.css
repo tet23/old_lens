@@ -1,8 +1,10 @@
 #vlightbox1 {
+	/*border: solid #FF0000;*/	
 	width:100%;
 	zoom:1;	
 }
 #vlightbox1 .vlightbox1 {
+	
 	display:-moz-inline-stack;
 	display:inline-block;
 	zoom:1;
@@ -21,9 +23,11 @@
 }
 #vlightbox1 .vlightbox1 a{
 	margin:0;
+	text-decoration: none;
 }
 #vlightbox1 .vlightbox1:hover, #vlightbox1 .vlightbox1 a:hover{
 	opacity:1;
+	text-decoration: none;
 }
 #vlightbox1 .vlightbox1 img{
 	display:block;
