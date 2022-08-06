@@ -55,7 +55,7 @@ ul{
 }
 
 #Menu_Container a{
-	color: #777777;
+	color: #222222;
 Å@text-decoration: none;
 }
 
@@ -76,7 +76,6 @@ ul{
 
 #Container1 a{
 	text-decoration: none;
-	color: #222222;
 }
 
 #Container1 a:hover{
@@ -95,7 +94,6 @@ ul{
 
 #Container2 a{
 	text-decoration: none;
-	color: #222222;
 }
 
 #Container2 a:hover{
@@ -115,7 +113,6 @@ ul{
 
 #Container3 a{
 	text-decoration: none;
-	color: #222222;
 }
 
 #Container3 a:hover{
