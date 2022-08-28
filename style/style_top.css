@@ -59,6 +59,16 @@ body {
 	float: left;
 }
 
+#RightMenu a {
+	text-decoration: none;
+}
+
+#RightMenu a:hover{
+	text-decoration: underline;
+	color: #FF0000;
+}
+
+
 #BottomContainer {
 	/*border: solid 1px #000000;*/
 	width: 100%;
